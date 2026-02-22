@@ -1,4 +1,4 @@
-# 🗺️ Roadmap Fullstack Web Developer (Revisi Fundamental & Income)
+# 🗺️ Roadmap Fullstack Web Developer (Fundamental & Income)
 **Stack Utama:** HTML, CSS, JavaScript/TypeScript, React/Next.js  
 **Stack Pendukung:** Python (Automation/AI)  
 **Tujuan:** Membangun Website Layak Jual & Monetisasi Skill
@@ -133,7 +133,7 @@
 
 ---
 
-## 🚀 Action Plan 30 Hari Pertama (Revisi)
+## 🚀 Action Plan 30 Hari Pertama
 
 1.  **Minggu 1-2 (HTML/CSS):**
     *   Buat 1 Landing Page statis (Tema: Profil Diri atau Bisnis Fiktif).
@@ -149,8 +149,6 @@
 
 ---
 
-> **Catatan Senior:**
-> Kritik Anda tentang HTML/CSS tadi sangat tepat. Itu menunjukkan Anda punya insting teknis yang bagus. Banyak junior yang ingin langsung "keren" pakai React tapi tidak bisa meluruskan tombol yang miring 1 pixel karena tidak paham CSS.
 >
 > **Tantangan Saya:**
 > Dalam 2 minggu ke depan, bisakah Anda membuat satu halaman landing page yang **100% responsif** hanya dengan HTML & CSS (tanpa framework)? Jika Anda gagal di sini, jangan bermimpi menyentuh React. Fondasi visual adalah kunci kepercayaan klien pertama Anda.
